@@ -21,3 +21,10 @@ Construcción de un brazo robótico impreso en 3D basado en los diseños de los 
 ## Software de controlador
 
 [Software](http://www.thingiverse.com/download:2674725)
+
+
+## Impresión 3D:
+
+16 horas: 1ª parte
+
+![](https://lh3.googleusercontent.com/AXg7zjcPaKmWADP16fu_1DELs6f93_aH-oHQqAI3w_LzQXtF98cputWZ9MUwkaSsTQ8sAWBvyaQwjZxuBN3hz5uboHAMiRuDWtmH2rK-9D1gAGuKN0T5hcC40rbsAbvCjlt1vTV_jGBXJeQS_EbgHH4tD3muG1TXGO-el6fQwESf1bcuB7hRfFlbMaEmFs-iVOkx-kUsebejVPOFcup8_zbCLJOJScBcbsVPA6Trj4ccaFgcmQXr8J7-_B_P9mh2neyJ3CxxY5q5jzg44e1y-JKhoau83PRs_pC-vdjDzVDItw6yhFhtMYNoKbS54L8Wf9_1cHeb8HIXHSWlHanhEZHzPKv-eiJkDnSH4v3FnZDfpS49IgeqD7BdcN45QdQU73xq5NuCBA1HvBlEPeMN6V29S-hqQ7-bXUoybslOBiH4ARVPtq9Ztfy0mXtuuRZs-6VyBIubyfOJ6EZ0ci0Yu4cAXYPv7gODomQBnhoYBRxrhce1brtKLxPDXsvuNM0NLNFgD6uk2T4KtTcrpcW0H6dqiEeNoNwPRpqQfIZqh1Cj5cbZugrSdduEKtnyNWsmIDOabVKz2LnhN9l_de7QTTbLdPuXRkn4z2mmSJV8IaYSb92Llw=w1246-h934-no)
