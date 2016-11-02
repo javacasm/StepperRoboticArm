@@ -23,6 +23,24 @@ Construcción de un brazo robótico impreso en 3D basado en los diseños de los 
 [Software](http://www.thingiverse.com/download:2674725)
 
 
+## Tornillería (de [thingiverse](http://www.thingiverse.com/thing:1718984))
+
+* 16x M3x6
+* 21x M3x8 (3x used as set screws)
+* 4x M3x10
+* 2x M3 Washer (large for gripper)
+* 4x M3 Nut
+* 6x M4x10
+* 11x M4x16
+* 2x M4x25
+* 14x M4 Washer (small enough for Bearing)
+* 8x M4 Nut
+* 12x M6 Washer (small enough for Bearing)
+* 3x M6 Nut
+* 3x M6 Self Locking Nut
+* 3x M6x45
+* 1x M6x80mm Threaded Rod
+
 ## Impresión 3D:
 
 16 horas: 1ª parte
