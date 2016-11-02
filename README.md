@@ -49,3 +49,17 @@ Construcción de un brazo robótico impreso en 3D basado en los diseños de los 
 
 9 horas: 2ª parte
 ![piezas impresas 2](https://lh3.googleusercontent.com/Hv6v-BfKUFdGs-KpCNIxvsB5HZcayw6wk2CQi3bsf7RTu4CFf6YbHSinNgAH7abMEfuSZUTRxTmifSqlfT85QxQTcrOhzClI0P-uWL7smI3Xp1lDwOMlz_JMetMJCWhuBuWzSARsmg6lyR9Lmt1aRCdaeFWk0tDWhZZtXbvksM7Qj88hiGeMDD0f0-s54jD01kOqAjifJbSEKUEJjpFgJSa0HJgKrppiL3xAZ3OjvGeM3t-ttL1jvYRN9ikostHA61UEAAEexz3NLSU7YkkeKhI160Ea3g33JME2c2HCtCGIMEboCLB_tlDT0aU6iOpHw7pMtS8wDavKJtoV2HFbRyI55oxLtbe2Hsc2hIN2KEG-qlspBZaOLsRltCc5ZwOZCpQkVJTJ-7wxMTwKalOJjjFbULMqo5Asa37gekXT4U8diH27LRhpfZrX3kqUki_PSHavLv0lkzryCK3hI8KS5mzvCbr5RWMNZPCYo2fMLWnZt85ulvAjBq16RO1qB8EGgv91Q7j0H5tCOVxyIwwMFjtKMNS8G7H9a8qbSzh-FNPAnPBBn_WqQsRl5J9HEAglBoEQjhj8uqKng4dkIf5Zz0kqeNtW3HH9jJEHErr0Eb3XNT1bSg=w701-h934-no)
+
+
+## GCODE
+A valid gcode command looks like G1 X0 Y120 Z120
+There have to be spaces in between.
+
+G0=G1: Move XYZ in mm (cartesian), F in mm/s. Always uses Absolute coordinates. Unlike 3D Printers, there is no E-Axis. On every move there is an acceleration and deacceleration.
+G4: Dwell / Sleep T in milliseconds
+M3: Close Gripper / Aux Motor T in Steps. Cannot move simultaneously to G
+M5: Open Gripper / Aux Motor T in Steps. Cannot move simultaneously to G
+M17: Enable Stepper Motors, also Enables Fan
+M18: Disables Stepper Motors, also Disables Fan with delay
+M106: Enables Fan
+M106: Disables Fan
