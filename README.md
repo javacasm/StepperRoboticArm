@@ -78,3 +78,13 @@ M106: Disables Fan
 [Vídeo](https://www.youtube.com/watch?v=-LztK9TKcZk&feature=youtu.be&t=36s)
 
 ![imagen1](images/Corte_base_3.png)
+
+### Tornillería
+
+#### base
+6 M4x15
+6 M4 Nuts
+6 M4x10
+
+Motor base
+4 M3x6
