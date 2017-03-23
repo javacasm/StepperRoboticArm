@@ -72,3 +72,9 @@ M18: Disables Stepper Motors, also Disables Fan with delay
 M106: Enables Fan
 
 M106: Disables Fan
+
+## Montaje
+
+[Vídeo](https://www.youtube.com/watch?v=-LztK9TKcZk&feature=youtu.be&t=36s)
+
+![imagen1](images/Corte_base_3.png)
